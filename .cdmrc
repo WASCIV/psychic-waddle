@@ -1,0 +1,27 @@
+version: 1
+labs:
+  - title: "Lab 1: Basic Python and API Calls"
+    description: "Understand Python functions, requests, and simple API interaction."
+    # Other lab 1 configuration...
+
+  - title: "Lab 2: Generating and Validating OTPs"
+    description: "Learn to generate random numbers and work with user input."
+    # Other lab 2 configuration...
+
+  - title: "Lab 3: Combining API Calls with OTP Generation"
+    description: "Combine the skills from Labs 1 and 2 to send an OTP through an API call."
+    # Other lab 3 configuration...
+
+  - title: "Lab 4: Error Handling and Environment Variables"
+    description: "Introduce error handling and the use of environment variables."
+    # Other lab 4 configuration...
+
+  - title: "Lab 5: Full Integration and Interactive CLI"
+    description: "Combine all previous labs into a full, interactive CLI application."
+    # Other lab 5 configuration...
+
+dependencies:
+  python:
+    - requests==2.25.1  # Replace with your desired version
+
+tabs: ['README.md']
