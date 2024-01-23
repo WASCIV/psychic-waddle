@@ -24,4 +24,4 @@ dependencies:
   python:
     - requests==2.25.1  # Replace with your desired version
 
-tabs: ['README.md']
+tabs: ['README.md','otp.py']
