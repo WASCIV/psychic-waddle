@@ -1,10 +1,1 @@
-# terminals
-terminals:
-    [
-        'mkdir test1',
-        'mkdir test2',
-    ]
-# other config
-tabs: ['README.md']
-run-button: clear && node $$file
 browser-link: https://wikipedia.org
