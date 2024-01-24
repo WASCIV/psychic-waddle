@@ -1,9 +1,8 @@
 # terminals
 terminals:
     [
-        'cd client && yarn && yarn start',
-        'cd server && yarn && yarn dev',
-        'echo "We''re ready"',
+        'mkdir test1',
+        'mkdir test2',
     ]
 # other config
 tabs: ['README.md']
