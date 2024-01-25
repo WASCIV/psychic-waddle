@@ -1,2 +1,3 @@
+run-button: node $$file
 tabs: ['README.md']
 browser-link: https://wikipedia.org
